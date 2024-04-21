@@ -1,0 +1,6 @@
+langchain
+langchain_core
+langchain-anthropic
+langsmith
+langchain_voyageai
+langchain_text_splitters
